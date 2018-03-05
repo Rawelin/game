@@ -5,6 +5,7 @@
 #include "player.h"
 #include "game.h"
 
+// git starts 5 march 2018
 
 Game* game;
 
